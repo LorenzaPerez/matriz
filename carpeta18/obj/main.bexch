@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\LORE\Desktop\carpeta18\matrizoncurrente2.gpr
+20151012180222
+[BOUND OBJECT FILES]
+C:\Users\LORE\Desktop\carpeta18\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\LORE\Desktop\carpeta18\obj\
+-LC:\Users\LORE\Desktop\carpeta18\obj\
+-LC:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+C:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnarl.a
+C:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
